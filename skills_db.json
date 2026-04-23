@@ -1,0 +1,24 @@
+{
+  "programming": [
+    "python", "java", "c++", "javascript", "r"
+  ],
+  "data_analysis": [
+    "sql", "excel", "power bi", "tableau", "data analysis", "data visualization"
+  ],
+  "machine_learning": [
+    "machine learning", "deep learning", "nlp", "natural language processing",
+    "tensorflow", "pytorch", "scikit-learn"
+  ],
+  "big_data": [
+    "hadoop", "spark", "kafka"
+  ],
+  "cloud": [
+    "aws", "azure", "gcp"
+  ],
+  "tools": [
+    "git", "github", "docker", "kubernetes"
+  ],
+  "business": [
+    "business analysis", "project management", "agile", "scrum"
+  ]
+}
